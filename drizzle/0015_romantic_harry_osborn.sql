@@ -1,0 +1,1 @@
+ALTER TABLE `short_goals` ADD `timer_sound_enabled` integer DEFAULT 1;

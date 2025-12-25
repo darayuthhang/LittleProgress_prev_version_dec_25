@@ -1,0 +1,1 @@
+DROP INDEX `users_table_email_unique`;

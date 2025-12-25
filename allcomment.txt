@@ -1,0 +1,53 @@
+npx expo start
+
+npx drizzle-kit generate 
+
+
+Press shift m to open studio sqlite db
+
+
+cute mascot turtle icon with green color facing camera, wearing a yellow hat and holding sign " You got this. i believe in you." 
+
+
+//rebuild eas 
+
+eas build --platform ios --profile development --clear-cache
+
+
+Make this image a ready-to-use iOS app icon — centered character, clean flat background, no text, no border, 1024×1024 size, iOS app icon style.
+
+
+eas build --platform ios --profile production --clear-cache
+
+
+eas env:pull --environment development  
+
+eas submit --platform ios
+24681df72677bebb5fbe68902aee5726463331f2
+
+
+RUN on Ipad
+
+npx expo run:ios
+
+
+IPHONE SCREEN: 
+1242 x 2688
+
+Review information screenshot size 2048 x 1536.
+
+review info fillout:
+
+This app includes auto-renewable subscriptions for premium features.
+
+You can access the paywall by tapping the “Upgrade” button on the home screen or any locked feature.
+
+Subscription options:
+• Monthly Plan – $1.99 per month
+• Yearly Plan – $19.99 per year (17% off)
+
+The paywall allows testers to view and purchase the subscriptions through Apple’s sandbox environment.
+You can also restore previous purchases using the “Restore purchases” button on the paywall.
+
+No account login is required.
+The app functions normally without a subscription, but premium features unlock after purchase.

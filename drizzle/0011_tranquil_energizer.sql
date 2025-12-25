@@ -1,0 +1,1 @@
+ALTER TABLE `short_goals` ADD `icon_category` text DEFAULT 'default';

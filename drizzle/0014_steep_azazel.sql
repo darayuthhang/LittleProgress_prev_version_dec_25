@@ -1,0 +1,1 @@
+ALTER TABLE `short_goals` ADD `timer_duration_seconds` integer DEFAULT 0;

@@ -1,0 +1,1 @@
+ALTER TABLE `goals` ADD `completed` integer DEFAULT 0;
